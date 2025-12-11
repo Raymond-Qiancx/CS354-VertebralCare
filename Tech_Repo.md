@@ -3,7 +3,9 @@
 ## Technical Report: VertebralCare - Spine Case Management & Risk Assessment System
 
 **Course**: Database and Data Science
+
 **Project Name**: VertebralCare - Spine Case Management & Risk Assessment System
+
 **Tech Stack**: MySQL 8.0 + Java 8 + JDBC + Maven + Swing GUI + JFreeChart
 
 ---
