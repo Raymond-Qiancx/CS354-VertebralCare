@@ -1,6 +1,6 @@
 # VertebralCare Spine Case Management System - Technical Report
 
-## Technical Report: VertebralCare - Spine Case Management & Risk Assessment System
+
 
 **Course**: Database and Data Science
 
